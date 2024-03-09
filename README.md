@@ -1,21 +1,21 @@
-# Farcasterkit
+# Farcasterkit-Hooks
 
-**A unified Typescript API for Farcaster Data**
+**The best React Hooks for Farcaster Data**
 
-You need to get Farcaster data and need to read all API documentations and even more. Farcasterkit solves this by offering a one stop library that exposes a unified API so you don't need to worry about different implementations (think viem/ethers.js providers but for Farcaster).
+You need to get Farcaster data and need to read all API documentations and even more. Farcasterkit solves this by offering a one stop library that exposes a unified API, while -hooks provide ready made React Hooks, so you don't need to worry about different implementations (think viem/ethers.js providers but for Farcaster).
 
 ## Installation
 
 ```bash
-npm install @dtechvision/farcasterkit
+npm install @dtechvision/farcasterkit-hooks
 ```
 
-![use farcasterkit to get Farcaster Data easily using Typescript](logo.png)
+![use farcasterkit to get Farcaster Data easily using React JS](logo.png)
 
 ## Ressources
 
 - [NPM]- TODO
-- [React Hooks] - SOON
+- [Pure Typescript core Farcasterkit](https://github.com/dtechvision/farcasterkit)
 - [Farcaster Channel] - Whut? wow!
 - [Docs] - SOON, for now github Issues
 - [Looking for Developers? / need Help?] - cast @samuellhuber or any Maintainer on Farcaster for now
